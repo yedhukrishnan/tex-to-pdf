@@ -1,7 +1,7 @@
 TeX-PDF-Maker
 =============
 
-Python program to create a PDF file with formatted C programs.
+Python script to create a PDF file with formatted C programs.
 
 Follow the steps:
 
